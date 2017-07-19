@@ -1,0 +1,13 @@
+
+
+SISTEMAS@FIEEISL03N11 MINGW64 ~/micar (master)
+$ git init
+Reinitialized existing Git repository in C:/Users/SISTEMAS/micar/.git/
+
+SISTEMAS@FIEEISL03N11 MINGW64 ~/micar (master)
+$ git add arch1.txt
+
+SISTEMAS@FIEEISL03N11 MINGW64 ~/micar (master)
+$ git commit -m "version 1.1"
+
+*** Please tell me who you are.
